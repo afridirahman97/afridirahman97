@@ -5,8 +5,5 @@
 
 Here are some ideas to get you started: -->
 
-- 📜 I’m currently studying at Brac University
-- 🌱 I’m currently learning and working on both React Js and React Native
-- 📫 How to reach me: afridirahman97@gmail.com 
-- ⚡ Other Activities: Currently solving and uploading URI Online Judge problems in python
+- 📫 reach me: afridirahman97@gmail.com 
 
