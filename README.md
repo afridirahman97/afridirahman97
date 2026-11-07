@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://metrobhara.com"><img src="https://img.shields.io/badge/Live-metrobhara.com-0a7c5a?style=flat-square&logo=googlemaps&logoColor=white" alt="metrobhara.com"/></a>
   <a href="mailto:afridirahman97@gmail.com"><img src="https://img.shields.io/badge/Email-afridirahman97%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -14,24 +13,7 @@
 
 ## 🚀 Featured projects
 
-### 🚇 [Metro Bhara](https://metrobhara.com) — Dhaka Metro Rail fare calculator
-A fast, installable web app for Dhaka Metro Rail fares, fare charts and travel info.
-- **Angular 18** with server-side rendering and **static prerendering** of every route for SEO and link previews
-- **PWA** with a service worker so it works offline on mobile
-- Deployed on the edge with **Cloudflare Workers**, including a Worker-powered live news API
-- Per-route meta / Open Graph tags, structured data, sitemap, and a mobile-first UI
-
-`Angular` `TypeScript` `SSR` `PWA` `Cloudflare Workers`
-
-### 🌉 [Setu](https://github.com/afridirahman97/CodeSprint---Setu) — AI reviewer for software requirement specs *(CodeSprint team project)*
-Checks a draft SRS against the system that already exists, produces a gap report, routes it through a BA review and approval gate, then drafts the delivery backlog with a traceability matrix.
-- **Next.js 15 / React 19**, PostgreSQL + **pgvector** for retrieval, `pg-boss` background workers
-- Self-hosted LLMs behind a private network boundary, with an evaluation harness for extraction and gap detection
-- Fully containerised with Docker Compose
-
-`Next.js` `LLM / RAG` `pgvector` `Docker`
-
-### 🧠 [Intracranial Hemorrhage Detection](https://github.com/afridirahman97/Detection-of-Intracranial-Hemorrhage-on-CT-Scan-Imagesusing-Convolutional-Neural-Network) — CNN on head CT scans
+### 🧠 [Intracranial Hemorrhage Detection](https://github.com/afridirahman97/Detection-of-Intracranial-Hemorrhage) — CNN on head CT scans
 A convolutional neural network that flags brain hemorrhage in CT images, served through a Flask web app: upload a scan, get a prediction.
 
 `TensorFlow` `CNN` `Flask` `Medical Imaging`
@@ -46,6 +28,16 @@ A secure, minimalist desktop password manager built with **Tauri** (Rust + React
 
 `Tauri` `Rust` `React` `TypeScript` `AI-assisted dev`
 
+### 🎙️ [Voice-Assisted News Site](https://github.com/afridirahman97/Voice-Assisted-News-Site) — AI voice assistant for news
+A React news app you control by voice: ask for the latest headlines and navigate articles hands-free, powered by the Alan AI voice SDK.
+
+`React` `Voice AI` `Material UI`
+
+### 🌐 [3D Portfolio](https://github.com/afridirahman97/Portfolio) — interactive portfolio site
+Personal portfolio with 3D scenes rendered in the browser.
+
+`React` `Three.js` `Tailwind CSS` `Vite`
+
 ### 🤖 [PID Line-Following Robot](https://github.com/afridirahman97/PID-Controlled-lline-following-robot)
 PID-controlled line follower simulated in Webots, with controllers in C++ and Python.
 
@@ -54,12 +46,14 @@ PID-controlled line follower simulated in Webots, with controllers in C++ and Py
 <details>
 <summary><b>More projects</b></summary>
 
-- [**3D Portfolio**](https://github.com/afridirahman97/Portfolio) — personal portfolio with Three.js, React and Tailwind
-- [**Voice-Assisted News Site**](https://github.com/afridirahman97/Voice-Assisted-News-Site) — browse news hands-free with voice commands
+- [**React Native Quiz App**](https://github.com/afridirahman97/react-native-QuizApp) — mobile quiz game in React Native
+- [**Social Media Feedback**](https://github.com/afridirahman97/social-media-feedback) — feedback dashboard with React, Redux Toolkit, MUI and AWS Amplify
 - [**Citizen Journalism Site**](https://github.com/afridirahman97/citizen_journalism_site) — community news platform on Firebase ([live](https://journalism-e7c1b.firebaseapp.com/))
+- [**Tuition Media**](https://github.com/afridirahman97/Tuition-Media) — tutor-finding platform with a separate admin app ([live](https://tuition-6b9fb.web.app/))
 - [**Covid-19 Updates**](https://github.com/afridirahman97/covid_updates) — pandemic stats dashboard in React ([live](https://covid-ea0e8.firebaseapp.com/))
+- [**La Mode**](https://github.com/afridirahman97/La-Mode) — Flutter mobile app with phone/OTP sign-up and authentication flows
 - [**NLP coursework (CSE431)**](https://github.com/afridirahman97/CSE431_Natural-language-processing) — natural language processing assignments
-- [**Calendar Booking**](https://github.com/afridirahman97/Calendar-Booking) · [**Tuition Media**](https://github.com/afridirahman97/Tuition-Media) · [**JSON Book Frontend**](https://github.com/afridirahman97/JSON-BOOK-FRONTEND)
+- [**Doctor Appointment Calendar**](https://github.com/afridirahman97/Calendar-Booking) · [**JSON Book Frontend**](https://github.com/afridirahman97/JSON-BOOK-FRONTEND)
 
 </details>
 
@@ -68,10 +62,10 @@ PID-controlled line follower simulated in Webots, with controllers in C++ and Py
 ## 🛠️ Tech I work with
 
 **Languages:** TypeScript · JavaScript · Python · Java · C++  
-**Frontend:** Angular · React · Next.js · React Native · Tailwind CSS · Three.js  
-**Backend & data:** Node.js · Spring Boot / JHipster · Flask · PostgreSQL · pgvector · Firebase  
+**Frontend & mobile:** Angular · React · Next.js · React Native · Flutter · Tailwind CSS · Three.js  
+**Backend & data:** Node.js · Spring Boot / JHipster · Flask · PostgreSQL · Firebase · AWS Amplify  
 **AI / ML:** TensorFlow · Keras · scikit-learn · LLM apps & RAG  
-**Infra:** Docker · Cloudflare Workers · GitHub Actions · Tauri
+**Infra & tools:** Docker · Cloudflare Workers · GitHub Actions · Tauri
 
 ---
 
